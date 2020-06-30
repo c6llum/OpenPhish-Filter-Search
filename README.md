@@ -3,7 +3,7 @@ Filter through OpenPhish.com phishing feed for specific sites
 
 ```
 Are you a business trying to protect your company from cyber crime and fraud?
-With this tool, you can continously monitor if your site has been targetted through the use of this tool
+With this tool, you can continously monitor if your site has been targetted by hackers (phishing attempts) through the use of this tool
 ```
 
 # Prerequisites
