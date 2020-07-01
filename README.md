@@ -19,6 +19,7 @@ With this tool, you can continously monitor if your site has been targetted by h
 
 # Where do the results appear?
 - The results will appear in `real time` in the python `console`.
+- All scanned websites over the lifetime will be saved in 'feed1.txt'.
 - Websites with the status code: 200 will show up in `online.txt`.
 - Websites with the status code: 404 will show up in `fourofour.txt`.
 - Any other status code website is found in `offline.txt`
