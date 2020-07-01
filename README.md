@@ -14,7 +14,7 @@ With this tool, you can continously monitor if your site has been targetted by h
 
 # How to run this script?
 - Upload all files to your server
-- Give the permissions `755` to the `fourofour.txt`, `offline.txt` and `online.txt`
+- Give the permissions `755` to the 'feed1.txt', `fourofour.txt`, `offline.txt` and `online.txt`
 - Once all of the above is complete execute: `python search.py`
 
 # Where do the results appear?
